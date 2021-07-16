@@ -1,17 +1,11 @@
-# PdP · Módulo Digital · 2021-1
+# PdP · Módulo Digital · 2021-1 | GRUPO 7
 
-### Plantilla para el trabajo grupal final del Módulo Digital
+### IMPORTANTE
 
-Para iniciar el trabajo, corresponde que:
+/ Nuestro trabajo a sido desarrollado bajo el software Visual Studio Code, en el cual gracias a una extensión llamda Live Share Session, trabajamos el código de manera on line y en tiempo real, esto nos permitió un flujo de trabajo mas eficaz, pero como podrán suponer, al no trabajar directamente en la paltaforma github, solo una persona de los integrantes del grupo aparecerá como colaborador (ya que fue esa persona quién subió todos los archivos).
 
-1 - cada integrante del equipo de trabajo tenga su cuenta de usuario en esta plataforma https://github.com/
+Es por eso que encontramos importante, informar y aclarar, para no generar algun malentendido que afecte la evaluación de nuestro trabajo - TODOS COLABORAMOS RESPECTIVAMENTE
 
-2 - un/a integrante del grupo debe [crear una organización](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n), invitar a cada integrante del grupo a ser parte de ella y crear **un repositorio público**, con un `README.md`. No es necesario que agrege un gitignore ni escoja una licencia para el repositorio.
+Saludos!
+Equipo 7
 
-3 - con los permisos bien configurados, **cualquier integrante del grupo podrá agregar a tal repositorio los archivos que están en esta carpeta de nombre plantilla ¡Pero no metan la carpeta! Ábranla y arrastren todo lo que contiene menos el `README.md` (para no reemplazar el que ya tienen)**
-
-4 - cuando tengan los archivos en su repositorio, corresponde [configurar su GitHub Page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
-
-5 - luego, en la medida que cada integrante del grupo tenga algo resuelto, lo puede sumar directamente al repositorio de su organización, y con eso quedará registrada su colaboración.
-
-Recuerden que su trabajo será evaluado con una rúbrica que pueden consultar en [Google Drive](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing).
